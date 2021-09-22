@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="org.cap.test.bankapp.BankAppTestCase" time="0" errors="0" skipped="1">
+<testsuite tests="4" failures="0" name="org.cap.test.bankapp.BankAppTestCase" time="0.003" errors="0" skipped="1">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="16.0.2+7-67"/>
@@ -25,10 +25,10 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="E:\STSWorkplace2\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8020005176396094677.tmp"/>
+    <property name="classworlds.conf" value="E:\STSWorkplace2\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf13534621765400806328.tmp"/>
     <property name="jansi.force" value="true"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="E:\Programs\newFolder\contents\sts-4.12.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:\Programs\newFolder\contents\sts-4.12.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\jre\bin;E:/Programs/newFolder/contents/sts-4.12.0.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/bin/server;E:/Programs/newFolder/contents/sts-4.12.0.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python37\Scripts\;C:\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk-11.0.11\bin;E:\Programs\apache-maven-3.8.2\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Git\cmd;E:\Programs\gradle-7.2\bin;C:\Python37;;E:\Programs\newFolder\contents\sts-4.12.0.RELEASE;;."/>
+    <property name="java.library.path" value="E:\Programs\newFolder\contents\sts-4.12.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:/Programs/newFolder/contents/sts-4.12.0.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/bin/server;E:/Programs/newFolder/contents/sts-4.12.0.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python37\Scripts\;C:\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk-11.0.11\bin;E:\Programs\apache-maven-3.8.2\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Git\cmd;E:\Programs\gradle-7.2\bin;C:\Python37;;E:\Programs\newFolder\contents\sts-4.12.0.RELEASE;;."/>
     <property name="jansi.passthrough" value="true"/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="60.0"/>
@@ -59,10 +59,10 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="org.cap.test.bankapp.BankAppTestCase" name="test_add_numbers_method" time="0"/>
+  <testcase classname="org.cap.test.bankapp.BankAppTestCase" name="test_add_numbers_method" time="0.001"/>
   <testcase classname="org.cap.test.bankapp.BankAppTestCase" name="test_add_Account_with_null_customer" time="0"/>
-  <testcase classname="org.cap.test.bankapp.BankAppTestCase" name="test_myloop" time="0">
+  <testcase classname="org.cap.test.bankapp.BankAppTestCase" name="test_myloop" time="0.001">
     <skipped/>
   </testcase>
-  <testcase classname="org.cap.test.bankapp.BankAppTestCase" name="test_add_Account_with_null_low_balance" time="0"/>
+  <testcase classname="org.cap.test.bankapp.BankAppTestCase" name="test_add_Account_with_null_low_balance" time="0.001"/>
 </testsuite>
